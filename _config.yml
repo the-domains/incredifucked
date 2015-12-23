@@ -1,0 +1,28 @@
+name: Incredifucked
+favicon: null
+layout_spectrum: 0.1498868870548904
+typography_spectrum: 0.805050709983334
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.5094275493174791
+  lightness: 0.758782344404608
+  saturation: 0.2157573231961578
+  rhythmicContrast: 0.5020264617633075
+purpose: []
